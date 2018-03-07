@@ -1,10 +1,10 @@
 [user]
-	name = Nicolas Hefti
-	email = nicolas@example.com
+  name = Nicolas Hefti
+  email = nicolas@example.com
 [core]
-	excludesfile = ~/.gitignore
+  excludesfile = ~/.gitignore
 [alias]
-	co = checkout
+  co = checkout
   ci = commit
   st = status
   br = branch
